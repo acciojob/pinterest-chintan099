@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+img{
+	width:60%;
+	height:300px;
+	object-fit:cover;
+}
+button{
+	padding:5px;
+	background-color:#FE0100;
+	color:#FFC0C0;
+	border-radius:5px;
+	border:none;
+}
+.actor{
+	margin-left:20px;
+	text-align:center;
+}
